@@ -4,5 +4,6 @@ public class App1 {
         System.out.println("Zo'rku uka");
         System.out.println("salom");
         System.out.println("salom");
+        System.out.println("Alik");
     }
 }
