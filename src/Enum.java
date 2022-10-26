@@ -1,4 +1,4 @@
 public enum Enum {
     MONDAY,
-    THUESDAT
+    TUESDAY
 }
